@@ -17,11 +17,17 @@ Aqui você encontra *resumos, anotações e projetos* de cada curso que finalize
 - 🌍 Local: Santa Catarina, Brasil
 - 📈 Objetivo: Conseguir minha primeira vaga em tecnologia e evoluir sempre!  
 
+<p align="center">
+  <a href="https://github.com/kamicode25dev-hub?tab=repositories" target="_blank">
+    <img src="img/banner-projetos.svg" alt="Projetos Kami Code" width="100%">
+  </a>
+</p>
+
 ---
 
 ## 📂 Organização do Repositório
 
-- [01 - HTML5](./01-html)  
+- [01 - HTML](./01-html)  
 - [02 - HTML5 & CSS3 - Mundo 1](./02-html5-css3-mundo1)  
 - [03 - HTML5 & CSS3 - Mundo 2](./03-html5-css3-mundo2)  
 - [04 - HTML5 & CSS3 - Mundo 3](./04-html5-css3-mundo3)  
@@ -57,6 +63,12 @@ Aqui você encontra *resumos, anotações e projetos* de cada curso que finalize
 - Publicar no GitHub como portfólio  
 - Compartilhar minha evolução no LinkedIn  
 - Alcançar minha primeira vaga como *Back-end Júnior*  
+
+<p align="center">
+  <a href="https://github.com/kamicode25dev-hub/learning-journey/tree/main/certificados" target="_blank">
+    <img src="img/banner-certificados.svg" alt="Certificados Kami Code" width="100%">
+  </a>
+</p>
 
 ---
 
