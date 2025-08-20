@@ -1,17 +1,6 @@
 <p align="center">
   <a href="https://github.com/kamicode25dev-hub/learning-journey" target="_blank">
-    <div style="
-      background: linear-gradient(90deg, #8A2BE2, #6A0DAD);
-      padding: 30px;
-      border-radius: 15px;
-      width: 100%;
-      text-align: center;
-      box-shadow: 0px 4px 15px rgba(0,0,0,0.3);
-    ">
-      <span style="color: white; font-size: 34px; font-weight: bold; font-family: Arial;">
-        🚀 Kami Code | Learning Journey 🚀
-      </span>
-    </div>
+    <img src="img/banner-kami.svg" alt="Kami Code | Learning Journey" width="100%">
   </a>
 </p>
 
