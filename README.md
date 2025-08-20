@@ -1,8 +1,6 @@
-<div align="center" style="background: linear-gradient(90deg, #7b2ff7, #f107a3); padding: 15px; border-radius: 12px;">
-  <img src="banner.jpg" alt="Banner Kami Code" width="100%" />
-</div>
-
-<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Kami%20Code%20🚀-Learning%20Journey-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Banner Kami Code"/>
+</p>
 
 # ✨ Learning Journey 🚀
 
