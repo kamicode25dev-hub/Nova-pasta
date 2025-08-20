@@ -1,5 +1,18 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Kami%20Code%20🚀-Learning%20Journey-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Banner Kami Code"/>
+  <a href="https://github.com/kamicode25dev-hub/learning-journey" target="_blank">
+    <div style="
+      background: linear-gradient(90deg, #8A2BE2, #6A0DAD);
+      padding: 30px;
+      border-radius: 15px;
+      width: 100%;
+      text-align: center;
+      box-shadow: 0px 4px 15px rgba(0,0,0,0.3);
+    ">
+      <span style="color: white; font-size: 34px; font-weight: bold; font-family: Arial;">
+        🚀 Kami Code | Learning Journey 🚀
+      </span>
+    </div>
+  </a>
 </p>
 
 # ✨ Learning Journey 🚀
