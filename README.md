@@ -1,6 +1,8 @@
-<p align="center">
+<div align="center" style="background: linear-gradient(90deg, #7b2ff7, #f107a3); padding: 15px; border-radius: 12px;">
   <img src="banner.jpg" alt="Banner Kami Code" width="100%" />
-</p>
+</div>
+
+<br>
 
 # ✨ Learning Journey 🚀
 
