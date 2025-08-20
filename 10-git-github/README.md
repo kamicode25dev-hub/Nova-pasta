@@ -29,4 +29,4 @@ Curso sobre versionamento de código e colaboração com Git e GitHub.
 ## Aprendizados & Notas
 - Uso profissional de Git  
 - Publicação de projetos no GitHub  
-- Fluxo de trabalho em equipe
+- Fluxo de trabalho em equipes
