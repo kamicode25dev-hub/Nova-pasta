@@ -1,4 +1,4 @@
-# 10. Git e GitHub 🌐
+# 09. Git e GitHub 🌐
 
 *Status:* Concluído ✅  
 *Instituição/Instrutor:* Gustavo Guanabara (Curso em Vídeo)  
