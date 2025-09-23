@@ -17,12 +17,6 @@ Aqui você encontra *resumos, anotações e projetos* de cada curso que finalize
 - 🌍 Local: Santa Catarina, Brasil
 - 📈 Objetivo: Conseguir minha primeira vaga em tecnologia e evoluir sempre!  
 
-<p align="center">
-  <a href="https://github.com/kamicode25dev-hub?tab=repositories" target="_blank">
-    <img src="img/banner-projetos.svg" alt="Projetos Kami Code" width="100%">
-  </a>
-</p>
-
 ---
 
 ## 📂 Organização do Repositório
@@ -31,17 +25,16 @@ Aqui você encontra *resumos, anotações e projetos* de cada curso que finalize
 - [02 - HTML5 & CSS3 - Mundo 1](./02-html5-css3-mundo1)  
 - [03 - HTML5 & CSS3 - Mundo 2](./03-html5-css3-mundo2)  
 - [04 - HTML5 & CSS3 - Mundo 3](./04-html5-css3-mundo3)  
-- [05 - HTML5 & CSS3 - Mundo 4](./05-html5-css3-mundo4)  
-- [06 - HTML5 & CSS3 - Mundo 5](./06-html5-css3-mundo5)  
-- [07 - Python 3 - Mundo 1](./07-python3-mundo1)  
-- [08 - Python 3 - Mundo 2](./08-python3-mundo2)  
-- [09 - Python 3 - Mundo 3](./09-python3-mundo3)  
-- [10 - Git & GitHub](./10-git-github)  
-- [11 - MySQL](./11-mysql)  
-- [12 - JavaScript](./12-javascript)  
-- [13 - Java POO](./13-java-poo)  
-- [14 - PHP Básico](./14-php-básico)  
-- [15 - Algoritmo](./15-algoritmo)
+- [05 - HTML5 & CSS3 - Mundo 4](./05-html5-css3-mundo4)    
+- [06 - Python 3 - Mundo 1](./07-python3-mundo1)  
+- [07 - Python 3 - Mundo 2](./08-python3-mundo2)  
+- [08 - Python 3 - Mundo 3](./09-python3-mundo3)  
+- [09 - Git & GitHub](./10-git-github)  
+- [10 - MySQL](./11-mysql)  
+- [11 - JavaScript](./12-javascript)  
+- [12 - Java POO](./13-java-poo)  
+- [13 - PHP Básico](./14-php-básico)  
+- [14 - Algoritmo](./15-algoritmo)
 
 ---
 
@@ -64,15 +57,9 @@ Aqui você encontra *resumos, anotações e projetos* de cada curso que finalize
 - Compartilhar minha evolução no LinkedIn  
 - Alcançar minha primeira vaga como *Back-end Júnior*  
 
-<p align="center">
-  <a href="https://github.com/kamicode25dev-hub/learning-journey/tree/main/certificados" target="_blank">
-    <img src="img/banner-certificados.svg" alt="Certificados Kami Code" width="100%">
-  </a>
-</p>
-
 ---
 
 ## 🌐 Contatos
-📩 Email: *[seu-email-aqui]*  
-💼 LinkedIn: [Seu Perfil](https://linkedin.com/in/SEU-USUARIO)  
-🐙 GitHub: [Kami Code](https://github.com/kamicode25dev-hub)
+📩 Email: *[kamicode25.dev@gmail.com]*  
+💼 LinkedIn: [kamicode](https://linkedin.com/in/kamicode)  
+🐙 GitHub: [kamiCode](https://github.com/kamicode25dev-hub)
