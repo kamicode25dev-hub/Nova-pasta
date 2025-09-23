@@ -1,6 +1,11 @@
 [![PT-BR](https://img.shields.io/badge/🌎_Português-blue?style=for-the-badge)](README.pt-BR.md)
 [![EN](https://img.shields.io/badge/🌍_English-red?style=for-the-badge)](README.md)
 
+<p align="center">
+  <img src="img/banner-en.svg" alt="Kami Code | Learning Journey — Courses, Notes and Projects" />
+</p>
+
+
 # 🚀 Learning Journey 🚀
 
 📚 Repository created to organize all the courses I’ve completed in my journey as a future **Software Engineer**.  
