@@ -11,11 +11,12 @@ Aqui você encontra *resumos, anotações e projetos* de cada curso que finalize
 
 ---
 
-## 👩‍💻 Sobre Mim
-- 🌟 Nome: *Kami Code*
-- 🎯 Foco: Desenvolvimento *Back-end Júnior*
-- 🌍 Local: Santa Catarina, Brasil
-- 📈 Objetivo: Conseguir minha primeira vaga em tecnologia e evoluir sempre!  
+## 👩‍💻 Sobre Mim  
+
+🌟 **Nome:** Kami Code  
+🎯 **Foco:** Desenvolvimento Back-end Júnior & Front-end  
+📍 **Local:** Florianópolis, Santa Catarina, Brasil  
+🚀 **Objetivo:** Conseguir minha primeira vaga em tecnologia e evoluir sempre!  
 
 ---
 
