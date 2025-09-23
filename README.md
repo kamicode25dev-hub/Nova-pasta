@@ -2,7 +2,7 @@
 [![EN](https://img.shields.io/badge/🌍_English-red?style=for-the-badge)](README.md)
 
 <p align="center">
-  <img src="img/banner-en.svg" alt="Kami Code | Learning Journey — Courses, Notes and Projects" />
+  <img src="banner-en.svg" alt="Kami Code | Learning Journey — Courses, Notes and Projects" />
 </p>
 
 
