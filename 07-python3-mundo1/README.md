@@ -1,4 +1,4 @@
-# 07. Python 3 – Mundo 1 🐍
+# 06. Python 3 – Mundo 1 🐍
 
 **Status:** Concluído ✅  
 **Instituição/Instrutor:** Gustavo Guanabara (Curso em Vídeo)  
