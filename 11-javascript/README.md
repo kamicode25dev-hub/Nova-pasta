@@ -1,4 +1,4 @@
-# 12. JavaScript 💻
+# 11. JavaScript 💻
 
 *Status:* Concluído ✅  
 *Instituição/Instrutor:* Gustavo Guanabara (Curso em Vídeo)  
