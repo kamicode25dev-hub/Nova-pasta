@@ -1,4 +1,4 @@
-# 15. Algoritmo 🔢
+# 14. Algoritmo 🔢
 
 *Status:* Concluído ✅  
 *Instituição/Instrutor:* Gustavo Guanabara (Curso em Vídeo)  
