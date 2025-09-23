@@ -60,6 +60,6 @@ Aqui você encontra *resumos, anotações e projetos* de cada curso que finalize
 ---
 
 ## 🌐 Contatos
-📩 Email: *[kamicode25.dev@gmail.com]*  
-💼 LinkedIn: [kamicode](https://linkedin.com/in/kamicode)  
-🐙 GitHub: [kamiCode](https://github.com/kamicode25dev-hub)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kamicode)  
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:kamicode25.dev@gmail.com)
+
