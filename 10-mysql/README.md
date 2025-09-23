@@ -1,4 +1,4 @@
-# 11. MySQL 🗄
+# 10. MySQL 🗄
 
 *Status:* Concluído ✅  
 *Instituição/Instrutor:* Gustavo Guanabara (Curso em Vídeo)  
