@@ -1,22 +1,9 @@
-[![PT-BR](https://img.shields.io/badge/🌎_Português-blue?style=for-the-badge)](README.pt-BR.md)
-[![EN](https://img.shields.io/badge/🌍_English-red?style=for-the-badge)](README.md)
+[![PT-BR](https://img.shields.io/badge/PT--BR-blue?style=for-the-badge)](README.pt-BR.md)
+[![EN](https://img.shields.io/badge/EN-red?style=for-the-badge)](README.md)
 
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200">
-  <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#6a11cb;stop-opacity:1"/>
-      <stop offset="100%" style="stop-color:#2575fc;stop-opacity:1"/>
-    </linearGradient>
-  </defs>
-  <rect width="900" height="200" rx="25" fill="url(#grad)"/>
-  
-  <text x="50%" y="45%" font-family="Segoe UI, sans-serif" font-size="40" fill="white" text-anchor="middle" font-weight="bold">
-    🚀 Kami Code | Learning Journey
-  </text>
-  <text x="50%" y="75%" font-family="Segoe UI, sans-serif" font-size="22" fill="white" text-anchor="middle">
-    Cursos, Anotações e Projetos
-  </text>
-</svg>
+<p align="center">
+  <img src="img/banner.svg" alt="Kami Code | Learning Journey — Cursos, Anotações e Projetos" />
+</p>
 
 
 # ✨ Learning Journey 🚀
