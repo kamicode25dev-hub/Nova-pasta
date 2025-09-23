@@ -1,3 +1,6 @@
+[![PT-BR](https://img.shields.io/badge/🌎_Português-blue?style=for-the-badge)](README.pt-BR.md)
+[![EN](https://img.shields.io/badge/🌍_English-red?style=for-the-badge)](README.md)
+
 <p align="center">
   <a href="https://github.com/kamicode25dev-hub/learning-journey" target="_blank">
     <img src="img/banner-kami.svg" alt="Kami Code | Learning Journey" width="100%">
